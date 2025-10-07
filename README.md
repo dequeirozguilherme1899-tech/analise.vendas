@@ -44,7 +44,7 @@ Responder, por meio de gráficos e indicadores no Power BI, às seguintes pergun
 
 Abaixo está uma captura de tela do dashboard desenvolvido no Power BI, com os principais indicadores e gráficos utilizados para responder às perguntas de negócio:
 
-![Dashboard de Vendas](dashboard-vendas.png)
+![Dashboard de Vendas](dashboard/dashboard-vendas.png)
 
 ---
 
