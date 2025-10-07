@@ -47,6 +47,4 @@ Com este exercício, é possível:
 - Avaliar **metas de vendas mensais** com indicadores visuais.  
 - Analisar a **evolução temporal da margem de lucro** da empresa.
 
----
-
-## 🗂️ Estrutura do Repositório
+o
