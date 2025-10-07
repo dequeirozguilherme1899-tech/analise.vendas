@@ -1,4 +1,4 @@
-# 📊 Análise de Vendas, custo, margem de lucro e KPI.
+# 📊 Análise de Vendas, Custo, Margem de Lucro e KPI
 
 Este projeto faz parte de um exercício prático de **Análise de Dados** utilizando o **Power BI**.  
 O objetivo é explorar um conjunto de dados de vendas, custos de envio e categorias de produtos, aplicando conceitos de **visualização de dados, métricas de desempenho (KPI)** e **análise de rentabilidade**.
@@ -40,11 +40,29 @@ Responder, por meio de gráficos e indicadores no Power BI, às seguintes pergun
 
 ---
 
-## 📈 Resultados Esperados
+## 📈 Dashboard
+
+Abaixo está uma captura de tela do dashboard desenvolvido no Power BI, com os principais indicadores e gráficos utilizados para responder às perguntas de negócio:
+
+![Dashboard de Vendas](dashboard/dashboard-vendas.png)
+
+---
+
+## 📊 Resultados Esperados
+
 Com este exercício, é possível:
-- Compreender a relação entre **modos de envio, custos e lucratividade**.  
-- Identificar **mercados mais caros logisticamente**.  
-- Avaliar **metas de vendas mensais** com indicadores visuais.  
-- Analisar a **evolução temporal da margem de lucro** da empresa.
+
+- Compreender a relação entre **modos de envio, custos e lucratividade**  
+- Identificar **mercados mais caros logisticamente**  
+- Avaliar **metas de vendas mensais** com indicadores visuais  
+- Analisar a **evolução temporal da margem de lucro** da empresa
+
+---
+
+## 📫 Contato
+
+**Guilherme de Queiroz**  
+Analista de Dados  
+[LinkedIn](https://www.linkedin.com/in/guilherme-de-queiroz-5033981b9/)
 
 
