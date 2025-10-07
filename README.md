@@ -1,4 +1,4 @@
-# 📊 Lab 2 - Análise de Vendas e Logística no Power BI
+# 📊 Lab 2 - Análise de Vendas, custo, margem de lucro e KPI.
 
 Este projeto faz parte de um exercício prático de **Análise de Dados** utilizando o **Power BI**.  
 O objetivo é explorar um conjunto de dados de vendas, custos de envio e categorias de produtos, aplicando conceitos de **visualização de dados, métricas de desempenho (KPI)** e **análise de rentabilidade**.
