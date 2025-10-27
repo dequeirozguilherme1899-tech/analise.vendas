@@ -61,10 +61,10 @@ Com este exercício, é possível:
 
 ## 📂 Arquivo do Projeto Power BI
 
-O arquivo principal do projeto está disponível abaixo:
-
-🔗 [analise-vendas.pbix](analise-vendas.pbix)  
-Este arquivo contém todas as visualizações, medidas DAX e modelagem utilizadas para responder às perguntas de negócio do Lab 2.
+- `Dashboard/` — Arquivo principal do projeto no Power BI
+- `Data/` — Dados do projeto
+- `imagens/` — Imagens dos dashboards
+- `README.md` — Documentação
 
 > Para abrir, é necessário o **Power BI Desktop** instalado em sua máquina.
 
