@@ -63,7 +63,7 @@ Com este exercício, é possível:
 
 O arquivo principal do projeto está disponível abaixo:
 
-🔗 [lab02.pbix](lab02.pbix)  
+🔗 [analise-vendas.pbix](analise-vendas.pbix)  
 Este arquivo contém todas as visualizações, medidas DAX e modelagem utilizadas para responder às perguntas de negócio do Lab 2.
 
 > Para abrir, é necessário o **Power BI Desktop** instalado em sua máquina.
