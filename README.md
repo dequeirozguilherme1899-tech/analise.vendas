@@ -1,7 +1,7 @@
 # 📊 Análise de Vendas, Custo, Margem de Lucro e KPI
 
-Este projeto faz parte de um exercício prático de **Análise de Dados** utilizando o **Power BI**.  
-O objetivo é explorar um conjunto de dados de vendas, custos de envio e categorias de produtos, aplicando conceitos de **visualização de dados, métricas de desempenho (KPI)** e **análise de rentabilidade**.
+Este projeto faz parte de um exercício prático de **Análise de Dados** utilizando o **Power BI**, com base em um conjunto de dados disponibilizado pela **Data Science Academy**.  
+O objetivo é explorar informações sobre **vendas**, **custos de envio** e **categorias de produtos**, aplicando conceitos de **visualização de dados**, **métricas de desempenho (KPI)** e **análise de rentabilidade**.
 
 ---
 
