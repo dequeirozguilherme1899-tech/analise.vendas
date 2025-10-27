@@ -19,12 +19,12 @@ Responder, por meio de gráficos e indicadores no Power BI, às seguintes pergun
 
 3. **Meta de valor médio de venda:**  
    A empresa possui uma meta de manter média de **350** no valor de venda mensal.  
-   Foi atingida ou superada essa meta em **abril de 2014**?  
+   Foi atingida ou superada essa meta?  
    *(Visualização: KPI – Indicador de Desempenho)*  
 
 4. **Lucro médio por categoria:**  
    Considerando que o **lucro = valor de venda - custo de envio**, qual categoria de produto apresentou o maior **lucro médio**?  
-   *(Visualização: gráfico de barras)*  
+   *(Visualização: gráfico de rosca)*  
 
 5. **Evolução da margem de lucro ao longo do tempo:**  
    Qual foi o comportamento da **margem de lucro (lucro ÷ valor de venda)** ao longo do período analisado?  
